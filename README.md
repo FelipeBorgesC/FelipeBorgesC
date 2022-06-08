@@ -1,16 +1,18 @@
-### Hi there 👋
+## Prazer, Felipe! 👋
 
-<!--
-**FelipeBorgesC/FelipeBorgesC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 
 
-Here are some ideas to get you started:
+Sou engenheiro 📐, desenvolvedor 💻 e pesquisador 🔎. Mestre por formação, professor por paixão e entusiasta da educação 👨‍🏫!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+📊 Use e abuse dos repositórios públicos!
+
+💬 Se tiver alguma dúvida me encontre por e-mail!
+
+#### 
+
+#### 
+
+#
+
+*“O ser humano é aquilo que a educação faz dele.” -* ***Immanuel Kant***
