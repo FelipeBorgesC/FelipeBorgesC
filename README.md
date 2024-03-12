@@ -1,27 +1,24 @@
-## Prazer, Felipe! 👋
+# Hey there, feel free to check out what I've been doing! 👋
 
-#### 
+## M.Sc Software Engineer - Machine Learning Researcher
 
-Sou engenheiro 📐, desenvolvedor 💻 e pesquisador 🔎. Mestre por formação, professor por paixão e entusiasta da educação 👨‍🏫!
+  💻 Currently working at [ICA PUC-Rio](https://ica.ele.puc-rio.br/) as machine learning engineer, helping deliver models to improve our client results.
+  👨🏻‍🏫 Furthermore teaching classes at [BI Master PUC-Rio](https://ica.ele.puc-rio.br/cursos/mba-bi-master/) in topics related to: data workflow steps, classical machine learning models, optimization techniques, deep learning models and uncertainty problem solving. 
 
-I'm an engineer 📐, developer 💻 and researcher 🔎. Master by training, teacher by passion and an education enthusiast 👨‍🏫!
+### A bit about me:
+  - Nationality: 🇧🇷/🇵🇹 - 🇪🇺 work eligiable
+  - Current location: 📍 Rio de Janeiro, RJ, Brazil
+  - Programing languages: C - Python - Unix - Docker - Singularity - Matlab
+  - Personal interests: ⚽ 🏀 💪🏽 💻 📚
 
-##
 
-📊 Use e abuse dos repositórios públicos!
+*Currently working in 2 projects hosted in GitLab private repos.*
 
-📊 Use and abuse public repositories!
 
-##
-
-💬 Se tiver alguma dúvida me encontre por e-mail!
-
-💬 If you have any questions, find me by email!
-
-####
+💬 If you have any questions, feel free to reach me out by email!
 
 #
 
-*“O ser humano é aquilo que a educação faz dele.” -* ***Immanuel Kant***
+*“Science is organized knowledge. Wisdom is organized life” -* ***Immanuel Kant***
 
 
