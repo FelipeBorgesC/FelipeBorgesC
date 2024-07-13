@@ -9,7 +9,7 @@
 
 ### A bit about me:
   - Nationality: 🇧🇷/🇵🇹 - 🇪🇺 work eligiable
-  - Current location: 📍 Rio de Janeiro, RJ, Brazil
+  - Current location: 📍 Copenhagen, Denmark
   - Programing languages: C - Python - Unix - Docker - Singularity - Matlab
   - Personal interests: ⚽ 🏀 💪🏽 💻 📚
 
