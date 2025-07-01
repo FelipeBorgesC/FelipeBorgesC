@@ -2,19 +2,16 @@
 
 ## M.Sc Software Engineer - Machine Learning Researcher
 
-  💻 Currently working at [ICA PUC-Rio](https://ica.ele.puc-rio.br/) as machine learning engineer, helping deliver models to improve our client results.
-  
-  👨🏻‍🏫 Furthermore teaching classes at [BI Master PUC-Rio](https://ica.ele.puc-rio.br/cursos/mba-bi-master/) in topics related to: data workflow steps, classical machine learning models, optimization techniques, deep learning models and uncertainty problem solving. 
-
+  💻 Currently working at [NOV](https://www.nov.com/) as senior software engineer, using AI, machine learning, and optimization to drive innovation and improve client outcomes. Currently focused on subsea production systems and applying AI to real-world challenges in the Oil & Gas industry.
 
 ### A bit about me:
-  - Nationality: 🇧🇷/🇵🇹 - 🇪🇺 work eligiable
+  - Nationality: 🇧🇷/🇵🇹
   - Current location: 📍 Copenhagen, Denmark
   - Programing languages: C - Python - Unix - Docker - Singularity - Matlab
   - Personal interests: ⚽ 🏀 💪🏽 💻 📚
 
 
-*Currently working in 2 projects hosted in GitLab private repos.*
+*Currently working on private repos.*
 
 
 💬 If you have any questions, feel free to reach me out by email!
